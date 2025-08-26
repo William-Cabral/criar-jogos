@@ -4,7 +4,7 @@ Este site apresenta uma lista de ferramentas que podem ser usadas para criação
 
 Este site é mantido por a partir de um [repositório no GitHub](https://github.com/marcosvital/criar-jogos), criado como parte do um projeto do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) da Universidade Federal de Alagoas, no ciclo 2024-25, sob orientação do [prof Marcos V. C. Vital](https://linktr.ee/marcosvital) e sendo executado pelos estudantes Luís Filipe da Conceição Albuquerque e William Fabrício Lima Cabral. O objetivo foi listar ferramentas que possam ser usadas por docentes para criação de jogos digitais com potenciais aplicações no ensino de Ciências e Biologia - mas o conteúdo pode e dever ser útil para outros públicos também!
 
-O conteúodo deste site é aberto e está disponível sob uma licença [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br): ele é gratuito para você usar, manter e compartilhar; você também pode usá-lo para criar versões modificadas e distribuí-las, e para isso você só precisa indicar que usou este material como base, atribuindo autoria.
+O conteúdo deste site é aberto e está disponível sob uma licença [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br): ele é gratuito para você usar, manter e compartilhar; você também pode usá-lo para criar versões modificadas e distribuí-las, e para isso você só precisa indicar que usou este material como base, atribuindo autoria.
 
 Se você quiser sugerir alterações ou adições no site, pode fazer isso usando o [repositório no GitHub](https://github.com/marcosvital/criar-jogos) e enviando um _pull request_.
 
@@ -48,6 +48,8 @@ O [Core Games](https://www.coregames.com) é uma software no modelo freemium de 
 ## 7) Flow Lab
 
 O [Flow Lab](https://flowlab.io/) é uma ferramenta freemium (gratuita, mas com algumas funções pagas) e intuitiva que não exige conhecimentos prévios de programação para criar jogos. Disponível em inglês e com tutoriais claros, oferece um processo de desenvolvimento simples e acessível. É compatível com Windows, Linux e Mac, permitindo a criação de jogos 2D para celulares e computadores. Embora seja possível exportar jogos do computador para dispositivos móveis, essa função está disponível apenas para usuários que assinam um plano mensal ou anual pago. No site oficial, é possível encontrar diversos jogos gratuitos que demonstram o potencial da plataforma.
+
+No final desta página, apresentamos um exemplo de jogo criado usando esta ferramenta: você poderá acessar (e jogar!) o jogo, assistir vídeos tutoriais sobre uso da ferramenta e ler o diário de criação do jogo de exemplo. Além destes materiais, você também pode [acessar aqui um manual de criação de jogos no Flow Lab](https://github.com/marcosvital/criar-jogos/blob/main/documentos/Manual%20de%20Cria%C3%A7%C3%A3o%20de%20Jogo%20no%20Flowlab.pdf).
 ***
 
 ***
@@ -97,7 +99,9 @@ O [Godot Engine](https://godotengine.org/) é um software gratuito e de código 
 ## 15) Kodu
 
 O [Kodu](https://www.kodugamelab.com) é uma ferramenta gratuita que se propõe a ensinar conceitos de programação por meio da criação de jogos. Disponível em mais de 20 idiomas, incluindo inglês e português, conta com tutoriais no site e no YouTube. É compatível com Windows e permite desenvolver jogos 3D de aventura para execução no computador. No site oficial, há alguns jogos/mundos disponíveis criados pelos jogadores, contudo para executar de verdade a ferramenta é necessário baixar o arquivo da mesma no site e executar. A plataforma possui um sistema de edição simples e intuitivo, sendo especialmente útil em atividades educativas relacionadas a biomas, ecologia e outras áreas da biodiversidade.
->>>>>>> main
+
+No final desta página, apresentamos um exemplo de jogo criado usando esta ferramenta, incluindo vídeos tutoriais sobre uso da ferramenta e um diário de criação do jogo de exemplo.
+
 ***
 
 ***
@@ -198,13 +202,15 @@ Aqui vamos disponibilizar conteúdo voltado para a criação de jogos em algumas
 
 Quando um vírus misterioso começa a deixar muitos pacientes doentes e os médicos não sabem como lidar com a doença, a Dra. Jaqueline Omolú entra em ação. Após rezar para o orixá Omolú, orixá da cura e das doenças, o mesmo aparece para ela em sonho e explica que pode ajudar Jaqueline a combater a doença e desenvolver uma cura, mas para isso ela vai precisar entrar na corrente sanguínea de um paciente e coletar no mínimo 30 antígenos virais em 3 lugares diferentes do organismo do paciente. Para se defender das células infectadas pelo vírus, Omolú concedeu a Jaqueline, o poder de atirar linfócitos T citotóxicos. O jogo, [Dra. Jaqueline Omulú e a Ameaça Virológica](https://flowlab.io/game/play/2747834), foi criado com a plataforma Flowlab e foca na área da Imunologia e da Virologia e busca ensinar sobre infecções por vírus e mecanismos de defesa do sistema imunológico, buscando também trazer mais representação para mulheres negras na Ciência ao trazer uma protagonista negra retinta e ao mesmo tempo homenagear religiões de matriz afrobrasileira.
 
-Crie você também o seu jogo com o Flowlab e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVBeV8A7NjYZAK_dIlox6kfe&si=kuFEVowerJBgXF1n) explicando a funcionalidade da ferramenta.
+Crie você também o seu jogo com o Flowlab e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVBeV8A7NjYZAK_dIlox6kfe&si=kuFEVowerJBgXF1n) explicando a funcionalidade da ferramenta. Se quiser, leia aqui o [diário de criação do jogo](https://github.com/marcosvital/criar-jogos/blob/main/documentos/Di%C3%A1rio%20de%20Cria%C3%A7%C3%A3o%20-%20Flowlab.pdf) Dra. Jaqueline Omulú e a Ameaça Virológica.
+
 ***
 ## Reconstrua o Ecossistema (jogo/atividade criada com a ferramenta Kodu)
 
 A construção de uma hidrelétrica em uma região da Floresta Amazônica causou grande perda da biodiversidade local tanto de espécies animais quanto de espécies vegetais, em uma tentativa de recuperar a biodiversidade da região o Governo Federal encarregou o Instituto de Legado Ecológico em Questão (LEQ) para realizar ações de reflorestamento e manejo de fauna com o intuito de recuperar esse ambiente. Nessa atividade, o jogador vai utilizar os recursos do jogo para reflorestar a área, levando em consideração o bioma no qual se encontra, e também utilizará os recursos para reconstituir a biodiversidade do local, buscando ao mesmo tempo incluir indivíduos que consigam compor boas teias alimentares (produtores, consumidores e decompositores). Esse jogo na verdade é uma atividade mais visual e discursiva focada na área da Ecologia e que busca sobretudo abordar os assuntos relativos à biomas, ecossistemas e cadeias alimentares. É necessário acessar o site do [Kodu](http://www.kodugamelab.com/), baixar a ferramenta no computador e selecionar a opção de mundo que contém uma fábrica para dar incício a essa atividade.
 
-Crie você também o seu jogo com o Kodu e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVCH3mfaifhBmqkxMyP3psOB&si=i6tG3PLBy3Guun_1) explicando a funcionalidade da ferramenta.
+Crie você também o seu jogo com o Kodu e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVCH3mfaifhBmqkxMyP3psOB&si=i6tG3PLBy3Guun_1) explicando a funcionalidade da ferramenta. Se quiser, leia aqui o [diário de criação do jogo](https://github.com/marcosvital/criar-jogos/blob/main/documentos/Di%C3%A1rio%20de%20Cria%C3%A7%C3%A3o%20-%20Kodu.pdf) Reconstrua o Ecossistema.
+
 ***
 ## Jogo 3
 

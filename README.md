@@ -187,7 +187,7 @@ Em Trasher Drop, um jogo de clicar e arrastar, o jogador assume o desafio de org
 Disponível a um click de distância, o protótipo [Trasher Drop](https://gd.games/games/b521e8d9-8b23-4be1-9205-fb9d66d8c24f) está aberto para testes, sendo criado a partir da ferramenta [GDevelop](https://gdevelop.io/pt-br). Além disso, há documentações disponíveis, como o [Game Design Document](https://docs.google.com/document/d/1KZ-bvfSbaP9qR6MN-v_98SCNO-iy7knt/edit?usp=sharing&ouid=116833630896248214855&rtpof=true&sd=true), voltado para o planejamento do protótipo, e o [Creation Diary](https://docs.google.com/document/d/14ebi9Ir7J_bvnWfjysialolCvw4xj3Qk/edit?usp=sharing&ouid=116833630896248214855&rtpof=true&sd=true), destinado ao registro de execução do protótipo.
 
 ***
-## Environment Insasion (Protótipo desenvolvido com a ferramenta [GDevelop](https://gdevelop.io/pt-br)) 
+## Environment Insasion (Protótipo desenvolvido com a ferramenta GDevelop) 
 
 Em Environment Invasion, um jogo de plataforma, o jogador assume o desafio de organizar o ecossistema com a coletan correta dos insetos invasores que estão ameaçando o equilíbrio. O objetivo é identificar quais são os insetos invasores e os diferenciar dos nativos com base na diferença de cores entre os organismos e o cenário, acumulando pontos e aprendendo conceitos de ecologia. O jogo multiplataforma estimula de modo didático a consciência ecológica e estratégias de manejo voltadas para a manutenção de ecosisstemas ameaçados por espécies invasoras, proporcionando o desenvolvimento do senso crítico de crianças e adolescentes sobre a importância dessas ações para um futuro mais ecológico.
 
